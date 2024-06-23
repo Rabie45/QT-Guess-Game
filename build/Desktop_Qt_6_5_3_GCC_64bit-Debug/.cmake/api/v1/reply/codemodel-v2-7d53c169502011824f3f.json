@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-566662e7df0f3a273a47.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qtt1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qtt1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtt1-Debug-3a49ac003ab284e76882.json",
+					"name" : "qtt1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtt1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtt1_autogen-Debug-e01200b1ec8821582ad6.json",
+					"name" : "qtt1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtt1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtt1_autogen_timestamp_deps-Debug-5a325d620842766ea96f.json",
+					"name" : "qtt1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rabi3/Qt-project/qtt1/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/home/rabi3/Qt-project/qtt1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
